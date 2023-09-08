@@ -1,0 +1,17 @@
+body {
+    background-image: url(bcg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* div {
+    display: grid;
+    justify-content: center;
+} */
+
+.page{
+    background-color: aliceblue;
+    min-width: 40vw;
+    min-height: 90vh;
+}
+

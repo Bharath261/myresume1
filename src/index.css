@@ -1,0 +1,34 @@
+body{
+    background-color: peachpuff;
+}
+
+.page{
+    display: flex;
+  }
+
+  .container{
+    background-color: lavenderblush;
+    position: absolute;
+    max-width: 210mm;
+    min-height: 280mm;
+    margin-left: 20%;
+    margin-top: 2%;
+    box-shadow: 10px 10px 5px brown;
+  }
+  
+  .left-section {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .right-section {
+    flex: 2;
+    padding: 20px;
+    padding-top: 145px;
+  }
+  
+  .divider{
+    border: 1px dotted black;
+    margin-top: 150px;
+    margin-bottom: 45px;
+  }
